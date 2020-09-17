@@ -1,3 +1,5 @@
+The link to the tutorial I am following can be found <a href="https://www.youtube.com/watch?v=5evJqX5i1zE">here.</a>
+
 Setup steps:
 
 - Created React App
@@ -20,3 +22,8 @@ Helpful utilities for parsing GraphQL queries
 
 **GraphQL**
 GraphQL is a query language for your API, and a server-side runtime for executing queries by using a type system you define for your data. GraphQL isn't tied to any specific database or storage engine and is instead backed by your existing code and data
+
+-----------------------
+<br>
+New Concepts:
+U.R.I: URI stands for Uniform Resource Identifier, and it's the official name for those things you see all the time on the Web that begin 'http:' or 'mailto:', for example http://www.w3.org/ (w3schools)
